@@ -3,3 +3,6 @@
 ```
 print('Hello World')
 ```
+- [x] Make cool picture
+- [x] Add cool text
+- [ ] Get some friends
